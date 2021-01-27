@@ -8,3 +8,21 @@ string interpolation
 dependecy injection 
 singelton pattern
 
+ngFor 
+ngIf or ([hidden] for small trees)
+ngSwitchCase 
+ngClass
+ngStyle
+ngModel
+
+directives-> to modify the dom
+types
+    ->Stuctural (with astrics *)
+    ->Attribute
+custom directives
+
+two-way Binding using ngModel from forms
+
+template driven forms raective forms
+
+angular material
