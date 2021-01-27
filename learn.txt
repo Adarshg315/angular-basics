@@ -1,0 +1,10 @@
+component = data + logic + html template
+module = container or grp of related components
+
+ng g c name --creates component
+ng g s name --creates service
+
+string interpolation
+dependecy injection 
+singelton pattern
+
